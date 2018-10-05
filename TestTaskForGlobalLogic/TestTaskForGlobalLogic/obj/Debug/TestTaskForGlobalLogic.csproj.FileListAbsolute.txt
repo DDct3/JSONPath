@@ -1,0 +1,36 @@
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.exe.config
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.exe
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.pdb
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csprojAssemblyReference.cache
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\MainWindow.g.cs
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\App.g.cs
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic_MarkupCompile.cache
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic_MarkupCompile.lref
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\MainWindow.baml
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.g.resources
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.Properties.Resources.resources
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.GenerateResource.cache
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.CoreCompileInputs.cache
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.CopyComplete
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.exe
+C:\Users\DDct3\source\repos\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.pdb
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.exe.config
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.exe
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\TestTaskForGlobalLogic.pdb
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csprojAssemblyReference.cache
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\MainWindow.g.cs
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\App.g.cs
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic_MarkupCompile.cache
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic_MarkupCompile.lref
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\MainWindow.baml
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.g.resources
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.Properties.Resources.resources
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.GenerateResource.cache
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.CoreCompileInputs.cache
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.csproj.CopyComplete
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.exe
+C:\Users\DDct3\Desktop\Нова папка\JSONPath\TestTaskForGlobalLogic\TestTaskForGlobalLogic\obj\Debug\TestTaskForGlobalLogic.pdb
